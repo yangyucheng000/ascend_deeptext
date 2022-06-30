@@ -324,10 +324,6 @@ class 1 precision is 84.24%, recall is 87.40%, F1 is 85.79%
 
 ### [ONNX Evaluation](#contents)
 
-- Export your model to ONNX:
-
-  ```shell
-  ```
 
 - Run ONNX evaluation script:
 

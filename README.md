@@ -293,12 +293,6 @@ class 1 precision is 88.01%, recall is 82.77%
 ```
 
 
-```python
-========================================
-
-class 1 precision is 84.49%, recall is 88.28%
-```
-
 ## Model Export
 
 ```shell
